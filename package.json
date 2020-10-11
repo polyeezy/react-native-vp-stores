@@ -1,0 +1,24 @@
+{
+  "name": "react-native-stores",
+  "version": "1.0.1",
+  "description": "Premade stores for react-native redux ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polyeezy/react-native-vp-stores.git"
+  },
+  "keywords": [
+    "react-native",
+    "valerian",
+    "polizzi"
+  ],
+  "author": "Valérian Polizzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polyeezy/react-native-vp-stores/issues"
+  },
+  "homepage": "https://github.com/polyeezy/react-native-vp-stores#readme"
+}
